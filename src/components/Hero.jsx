@@ -18,8 +18,8 @@ const Hero = () => {
           
           <p className="hero-subtitle">
             Lead Full Stack Developer with 5+ years shipping production code. 
-            I help startups and businesses build scalable APIs, payment systems, 
-            and SaaS platforms that handle real traffic and real money.
+            I help startups and build complex business admin panels, scalable REST APIs for web & mobile apps, 
+            eCommerce and ERP systems, and SaaS platforms that handle real traffic and real money.
           </p>
           
           <div className="hero-cta">
