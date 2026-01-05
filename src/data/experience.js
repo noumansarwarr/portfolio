@@ -8,7 +8,7 @@ export const experience = {
       examples: [
         "Managed a distributed team across 3 time zones for a 6-month SaaS rebuild",
         "Onboarded 4 junior developers and got them productive within 2 weeks",
-        "Ran daily standups and weekly architecture reviews"
+        "Ran daily standups and weekly scrum reviews"
       ]
     },
     {
@@ -26,7 +26,7 @@ export const experience = {
       examples: [
         "Designed multi-tenant architecture that scaled from 10 to 500+ tenants",
         "Chose queue-based architecture over real-time for a notification system - saved 3 weeks of development",
-        "Migrated monolith to service-oriented architecture incrementally over 8 months"
+        "Migrated monolith to service-oriented architecture"
       ]
     },
     {
@@ -42,7 +42,7 @@ export const experience = {
 
   timeline: [
     {
-      period: "2021 - Present",
+      period: "2025 - Present",
       role: "Lead Full Stack Developer / Backend Lead",
       type: "Freelance & Contract",
       highlights: [
@@ -52,18 +52,18 @@ export const experience = {
       ]
     },
     {
-      period: "2019 - 2021",
-      role: "Senior Backend Developer",
+      period: "Feb 2024 - Present",
+      role: "Full Stack Developer",
       type: "Agency / Product Company",
       highlights: [
-        "Promoted to senior after 8 months",
+        "Promoted to Lead after a year",
         "Led backend team of 4 developers",
-        "Shipped 12+ production projects"
+        "Shipped 7+ production projects"
       ]
     },
     {
-      period: "2017 - 2019",
-      role: "Full Stack Developer",
+      period: "Feb 2022 - Jan 2024",
+      role: "Backend Developer",
       type: "Startup",
       highlights: [
         "First engineering hire - built MVP to product-market fit",
@@ -76,7 +76,7 @@ export const experience = {
 
 export const education = {
   degree: "Bachelor of Science in Computer Science",
-  institution: "University of Engineering and Technology",
-  year: "2017",
+  institution: "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST), Islamabad",
+  year: "Jan 2022",
   note: "Focused on software engineering and database systems. The degree gave me fundamentals - real learning happened on production systems."
 };
